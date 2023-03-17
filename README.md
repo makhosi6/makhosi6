@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [meta](https://github.com/makhosi6/meta)
 
-- 👨‍💻 All of my projects are available at [https://portfolio.byteestudio.com/](https://portfolio.byteestudio.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio.byteestudio.com/](https://makhosi6.github.io/makhosandile.me/portfolio.html)
 
 - 💬 Ask me about **React, VueJs, Flutter, Laravel**
 
