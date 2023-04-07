@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Quickloc8](https://apps.apple.com/us/app/quickloc8/id6444891894)
 
-- 🌱 I’m currently learning **Kamailio, PBX, SIP**
+- 🌱 I’m currently learning **SwiftUI, Kamailio(VoIP), Vector & Graph databases**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with [meta](https://github.com/makhosi6/meta)
+- 🤝 I’m looking for help with [meta](https://github.com/makhosi6/meta) & [nguni](https://github.com/makhosi6/nguni)
 
 - 👨‍💻 All of my projects are available at [https://portfolio.byteestudio.com/](https://makhosi6.github.io/makhosandile.me/portfolio.html)
 
@@ -23,7 +23,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/makhosandile-ndondo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="makhosandile-ndondo" height="30" width="40" /></a>
 <a href="https://instagram.com/khosi_za" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khosi_za" height="30" width="40" /></a>
-</p>
 <a href="https://twitter.com/khosii_za" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khosii_za" height="30" width="40" /></a>
 </p>
 
