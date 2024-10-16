@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ndondo330@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/wRhjLVjay](https://drive.google.com/file/d/1YYiK3kB_5PqoHPumaUSW-w2SH3_vzxqn/view?usp=sharing)
+- 📄 Know about my experiences [https://resume.io/](https://drive.google.com/file/d/1YYiK3kB_5PqoHPumaUSW-w2SH3_vzxqn/view?usp=sharing)
 
 - ⚡ Fun fact **I am interested in philosophy and religion**
 
