@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Makhosandile Ndondo</h1>
 <h3 align="center">A passionate frontend developer from Cape town🇿🇦</h3>
 
-- 🔭 I’m currently working on [Quickloc8](https://apps.apple.com/us/app/quickloc8/id6444891894)
+- 🔭 I’m currently working for [Teamgeek](https://www.teamgeek.io/)
 
-- 🌱 I’m currently learning **SwiftUI, Kamailio(VoIP), Vector & Graph databases**
+- 🌱 I’m currently learning **SwiftUI, Kamailio (VoIP), Vector & Graph databases**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with [meta](https://github.com/makhosi6/meta) & [nguni](https://github.com/makhosi6/nguni)
+- 🤝 I’m looking for help with [rsa_id_number](https://pub.dev/packages/rsa_id_number) & [nguni](https://github.com/makhosi6/nguni)
 
-- 👨‍💻 All of my projects are available at [https://portfolio.byteestudio.com/](https://makhosi6.github.io/makhosandile.me/portfolio.html)
+- 👨‍💻 All of my projects are available at [https://makhosandile.me](https://makhosandile.me/)
 
-- 💬 Ask me about **React, VueJs, Flutter, Laravel**
+- 💬 Ask me about **React, VueJs, Angular, Flutter, Laravel**
 
 - 📫 How to reach me **ndondo330@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/wRhjLVjay](https://resume.io/r/wRhjLVjay)
+- 📄 Know about my experiences [https://resume.io/r/wRhjLVjay](https://drive.google.com/file/d/1YYiK3kB_5PqoHPumaUSW-w2SH3_vzxqn/view?usp=sharing)
 
 - ⚡ Fun fact **I am interested in philosophy and religion**
 
