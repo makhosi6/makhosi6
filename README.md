@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for [Teamgeek](https://www.teamgeek.io/)
 
-- 🌱 I’m currently learning **SwiftUI, Kamailio (VoIP), Vector & Graph databases**
+- 🌱 I’m currently learning **SwiftUI, Kotlin Multiplatform, Vector & Graph databases**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
